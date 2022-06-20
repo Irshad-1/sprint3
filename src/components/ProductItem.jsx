@@ -1,7 +1,7 @@
 import React from "react";
 
 const ProductItem = () => {
-  return <div>{/* CODE HERE */}</div>;
+  return <div></div>;
 };
 
 export default ProductItem;
